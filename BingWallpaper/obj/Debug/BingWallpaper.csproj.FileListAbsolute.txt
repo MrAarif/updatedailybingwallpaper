@@ -1,0 +1,10 @@
+c:\users\aarif\documents\visual studio 2015\Projects\BingWallpaper\BingWallpaper\bin\Debug\BingWallpaper.exe.config
+c:\users\aarif\documents\visual studio 2015\Projects\BingWallpaper\BingWallpaper\bin\Debug\BingWallpaper.exe
+c:\users\aarif\documents\visual studio 2015\Projects\BingWallpaper\BingWallpaper\bin\Debug\BingWallpaper.pdb
+c:\users\aarif\documents\visual studio 2015\Projects\BingWallpaper\BingWallpaper\bin\Debug\Newtonsoft.Json.dll
+c:\users\aarif\documents\visual studio 2015\Projects\BingWallpaper\BingWallpaper\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\aarif\documents\visual studio 2015\Projects\BingWallpaper\BingWallpaper\bin\Debug\Newtonsoft.Json.xml
+c:\users\aarif\documents\visual studio 2015\Projects\BingWallpaper\BingWallpaper\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\aarif\documents\visual studio 2015\Projects\BingWallpaper\BingWallpaper\obj\Debug\BingWallpaper.csprojResolveAssemblyReference.cache
+c:\users\aarif\documents\visual studio 2015\Projects\BingWallpaper\BingWallpaper\obj\Debug\BingWallpaper.exe
+c:\users\aarif\documents\visual studio 2015\Projects\BingWallpaper\BingWallpaper\obj\Debug\BingWallpaper.pdb
