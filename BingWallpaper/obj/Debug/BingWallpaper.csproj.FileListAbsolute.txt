@@ -8,3 +8,14 @@ c:\users\aarif\documents\visual studio 2015\Projects\BingWallpaper\BingWallpaper
 c:\users\aarif\documents\visual studio 2015\Projects\BingWallpaper\BingWallpaper\obj\Debug\BingWallpaper.csprojResolveAssemblyReference.cache
 c:\users\aarif\documents\visual studio 2015\Projects\BingWallpaper\BingWallpaper\obj\Debug\BingWallpaper.exe
 c:\users\aarif\documents\visual studio 2015\Projects\BingWallpaper\BingWallpaper\obj\Debug\BingWallpaper.pdb
+D:\Projects\Daily Bing Wallpaper\updatedailybingwallpaper\BingWallpaper\bin\Debug\BingWallpaper.exe.config
+D:\Projects\Daily Bing Wallpaper\updatedailybingwallpaper\BingWallpaper\bin\Debug\BingWallpaper.exe
+D:\Projects\Daily Bing Wallpaper\updatedailybingwallpaper\BingWallpaper\bin\Debug\BingWallpaper.pdb
+D:\Projects\Daily Bing Wallpaper\updatedailybingwallpaper\BingWallpaper\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Daily Bing Wallpaper\updatedailybingwallpaper\BingWallpaper\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\Daily Bing Wallpaper\updatedailybingwallpaper\BingWallpaper\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Daily Bing Wallpaper\updatedailybingwallpaper\BingWallpaper\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\Daily Bing Wallpaper\updatedailybingwallpaper\BingWallpaper\obj\Debug\BingWallpaper.csprojResolveAssemblyReference.cache
+D:\Projects\Daily Bing Wallpaper\updatedailybingwallpaper\BingWallpaper\obj\Debug\BingWallpaper.csproj.CoreCompileInputs.cache
+D:\Projects\Daily Bing Wallpaper\updatedailybingwallpaper\BingWallpaper\obj\Debug\BingWallpaper.exe
+D:\Projects\Daily Bing Wallpaper\updatedailybingwallpaper\BingWallpaper\obj\Debug\BingWallpaper.pdb
